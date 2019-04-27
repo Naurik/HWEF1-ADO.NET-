@@ -1,0 +1,13 @@
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\HWEF-1(Ado.net).exe.config
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\HWEF-1(Ado.net).exe
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\HWEF-1(Ado.net).pdb
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\EntityFramework.dll
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\EntityFramework.xml
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\obj\Debug\HWEF-1(Ado.net).csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\obj\Debug\HWEF-1(Ado.net).csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\obj\Debug\HWEF-1(Ado.net).csproj.CopyComplete
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\obj\Debug\HWEF-1(Ado.net).exe
+c:\users\acer-pc\source\repos\HWEF-1(Ado.net)\HWEF-1(Ado.net)\obj\Debug\HWEF-1(Ado.net).pdb
